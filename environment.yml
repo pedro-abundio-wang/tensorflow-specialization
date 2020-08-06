@@ -18,9 +18,9 @@ dependencies:
   - cffi=1.14.0=py36hd463f26_0
   - chardet=3.0.4=py36h9f0ad1d_1006
   - cryptography=2.9.2=py36h45558ae_0
-  - cudatoolkit=10.0.130=0
-  - cudnn=7.6.5=cuda10.0_0
-  - cupti=10.0.130=0
+  - cudatoolkit=9.2=0
+  - cudnn=7.6.5=cuda9.2_0
+  - cupti=9.2.148=0
   - cycler=0.10.0=py_2
   - dbus=1.13.6=he372182_0
   - decorator=4.4.2=py_0
@@ -85,6 +85,7 @@ dependencies:
   - matplotlib=3.2.1=0
   - matplotlib-base=3.2.1=py36hb8e4980_0
   - mistune=0.8.4=py36h8c4c3a4_1001
+  - mock=4.0.2=py_0
   - nbconvert=5.6.1=py36h9f0ad1d_1
   - nbformat=5.0.6=py_0
   - ncurses=6.1=hf484d3e_1002
@@ -131,13 +132,12 @@ dependencies:
   - setuptools=47.1.1=py36h9f0ad1d_0
   - six=1.15.0=pyh9f0ad1d_0
   - sqlite=3.30.1=hcee41ef_0
-  - tensorboard=1.15.0=py36_0
-  - tensorflow=1.15.0=gpu_py36h5a509aa_0
-  - tensorflow-base=1.15.0=gpu_py36h9dcbed7_0
-  - tensorflow-datasets=1.2.0=py36_0
-  - tensorflow-estimator=1.15.1=pyh2649769_0
-  - tensorflow-gpu=1.15.0=h0d30ee6_0
-  - tensorflow-hub=0.8.0=pyh831f99a_0
+  - tensorboard=1.11.0=py36hf484d3e_0
+  - tensorflow=1.11.0=gpu_py36h9c9050a_0
+  - tensorflow-base=1.11.0=gpu_py36had579c0_0
+  - tensorflow-estimator=1.13.0=py_0
+  - tensorflow-gpu=1.11.0=h0d30ee6_0
+  - tensorflow-hub=0.7.0=pyhe6710b0_0
   - tensorflow-metadata=0.14.0=pyhe6710b0_1
   - termcolor=1.1.0=py_2
   - terminado=0.8.3=py36h9f0ad1d_1
