@@ -116,6 +116,7 @@ dependencies:
   - numpy=1.17.4=py36hd5be1e1_0
   - numpy-base=1.17.4=py36h2f8d375_0
   - oauthlib=3.1.0=py_0
+  - olefile=0.46=py_0
   - openblas=0.3.7=he1df0ab_6
   - opencv=3.4.2=py36h6fd60c2_1
   - openssl=1.1.1g=h7b6447c_0
@@ -127,6 +128,7 @@ dependencies:
   - pcre=8.44=he1b5a44_0
   - pexpect=4.8.0=py36h9f0ad1d_1
   - pickleshare=0.7.5=py36h9f0ad1d_1001
+  - pillow=6.2.1=py36h34e0f95_0
   - pip=20.1.1=py_1
   - pixman=0.40.0=h7b6447c_0
   - prometheus_client=0.8.0=pyh9f0ad1d_0
